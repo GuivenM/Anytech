@@ -1,0 +1,25 @@
+[2026-02-19 20:56:41] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 20:56:41] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:05:23] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:05:23] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:09:10] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:09:10] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:15:01] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:15:01] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:27:11] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:27:11] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:31:39] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:31:39] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:32:09] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:32:09] [ERROR] Erreur PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.plan' in 'field list'
+[2026-02-19 21:34:03] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:34:03] [INFO] Routeur trouvé: Kishirika (ID: 3, Proprio: 1)
+[2026-02-19 21:38:54] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:38:54] [INFO] Routeur trouvé: Kishirika (ID: 3, Proprio: 1)
+[2026-02-19 21:38:54] [SUCCESS] ✅ Utilisateur enregistré: ID=1, Test Test, Tel=22999999999, Pièce=cni, Site=Kishirika
+[2026-02-19 21:41:26] [INFO] Requête reçue pour routeur: RTR-2026-003
+[2026-02-19 21:41:26] [INFO] Routeur trouvé: Kishirika (ID: 3, Proprio: 1)
+[2026-02-19 21:41:26] [SUCCESS] ✅ Utilisateur enregistré: ID=2, Guiven Pambou, Tel=0144143875, Pièce=cni, Site=Kishirika
+[2026-02-19 22:45:20] [INFO] Requête reçue pour routeur: RTR-2026-005
+[2026-02-19 22:45:20] [INFO] Routeur trouvé: test regulation (ID: 5, Proprio: 1)
+[2026-02-19 22:45:20] [SUCCESS] ✅ Utilisateur enregistré: ID=3, Oko Tati, Tel=0154228895, Pièce=cni, Site=test regulation

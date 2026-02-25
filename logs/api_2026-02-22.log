@@ -1,0 +1,6 @@
+[2026-02-22 15:03:12] [INFO] Requête reçue pour routeur: RTR-2026-005
+[2026-02-22 15:03:12] [INFO] Routeur trouvé: test regulation (ID: 5, Proprio: 1)
+[2026-02-22 15:03:12] [SUCCESS] ✅ Utilisateur enregistré: ID=4, Zakal Mwana, Tel=0144252536, Pièce=cni, Site=test regulation
+[2026-02-22 16:24:26] [INFO] Requête reçue pour routeur: RTR-2026-005
+[2026-02-22 16:24:26] [INFO] Routeur trouvé: test regulation (ID: 5, Proprio: 1)
+[2026-02-22 16:24:26] [SUCCESS] ✅ Utilisateur enregistré: ID=5, Kimia Zoriath, Tel=0198563247, Pièce=cni, Site=test regulation

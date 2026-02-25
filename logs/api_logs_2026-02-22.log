@@ -1,0 +1,45 @@
+[2026-02-22 15:33:42] [WARNING] Méthode non-POST : GET
+[2026-02-22 15:48:55] [ERROR] Erreur PDO : SQLSTATE[HY000] [2002] No such file or directory
+[2026-02-22 15:50:07] [WARNING] Méthode non-POST : GET
+[2026-02-22 15:50:36] [WARNING] Méthode non-POST : GET
+[2026-02-22 15:53:43] [ERROR] Erreur PDO : SQLSTATE[HY000] [2002] No such file or directory
+[2026-02-22 15:58:51] [ERROR] Erreur PDO : SQLSTATE[HY000] [2002] No such file or directory
+[2026-02-22 16:00:50] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:00:50] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:00:50] [WARNING] Aucune session à traiter
+[2026-02-22 16:01:52] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:01:52] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:01:52] [WARNING] Aucune session à traiter
+[2026-02-22 16:03:01] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:03:01] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:03:01] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 16:05:56] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:05:56] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:05:56] [WARNING] Aucune session à traiter
+[2026-02-22 16:13:18] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:13:18] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:13:18] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 16:23:06] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:23:06] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:23:06] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 16:25:34] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 16:25:34] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 16:25:34] [INFO] Traitement terminé : 2 sessions — insérées: 2, mises à jour: 0, erreurs: 0
+[2026-02-22 17:15:04] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 17:15:04] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 17:15:04] [INFO] Traitement terminé : 2 sessions — insérées: 2, mises à jour: 0, erreurs: 0
+[2026-02-22 18:15:04] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 18:15:04] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 18:15:04] [INFO] Traitement terminé : 2 sessions — insérées: 2, mises à jour: 0, erreurs: 0
+[2026-02-22 19:15:05] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 19:15:05] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 19:15:05] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 20:15:05] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 20:15:05] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 20:15:05] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 21:15:05] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 21:15:05] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 21:15:05] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0
+[2026-02-22 22:15:05] [INFO] Requête reçue pour routeur : RTR-2026-001
+[2026-02-22 22:15:05] [INFO] Routeur validé : Guiven Pambou (ID: 1)
+[2026-02-22 22:15:05] [INFO] Traitement terminé : 1 sessions — insérées: 1, mises à jour: 0, erreurs: 0

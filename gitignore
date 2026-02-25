@@ -1,0 +1,31 @@
+# ============================================================
+# .gitignore — ANYTECH Hotspot
+# ============================================================
+
+# ⚠️ CRITICAL — Contains DB credentials, API keys, admin password
+config.php
+
+# Logs directory (runtime data, not source code)
+/logs/
+*.log
+
+# PHP sessions
+/sessions/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled / cache
+*.cache
+
+# Environment-specific
+config.local.php
+
+echo "config.php" >> .gitignore

@@ -1,0 +1,147 @@
+    /* Credits hero */
+    .credits-hero {
+        background: linear-gradient(135deg, var(--brand-from) 0%, var(--brand-to) 100%);
+        border-radius: var(--radius-xl);
+        padding: 36px 40px;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        margin-bottom: 28px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .credits-hero::before {
+        content: '💳';
+        position: absolute;
+        right: 32px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 110px;
+        opacity: 0.08;
+        pointer-events: none;
+    }
+
+    .hero-balance {
+        font-size: 64px;
+        font-weight: 700;
+        font-family: 'DM Mono', monospace;
+        letter-spacing: -3px;
+        line-height: 1;
+    }
+
+    .hero-label {
+        font-size: 13px;
+        opacity: 0.75;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 8px;
+        font-weight: 600;
+    }
+
+    .hero-sub {
+        font-size: 14px;
+        opacity: 0.8;
+        margin-top: 8px;
+    }
+
+    /* Package cards */
+    .packages-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
+        margin-bottom: 28px;
+    }
+
+    .package-card {
+        background: var(--surface);
+        border: 2px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+        transition: var(--transition);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .package-card:hover {
+        border-color: var(--brand-from);
+        transform: translateY(-3px);
+        box-shadow: var(--shadow-brand);
+    }
+
+    .package-card.recommended {
+        border-color: var(--success);
+        background: linear-gradient(160deg, #f0fdf4 0%, white 60%);
+    }
+
+    .rec-badge {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: var(--success);
+        color: white;
+        font-size: 10px;
+        font-weight: 700;
+        padding: 4px 12px;
+        border-radius: 0 var(--radius-lg) 0 var(--radius-lg);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .pkg-name {
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: var(--text-muted);
+        margin-bottom: 8px;
+    }
+
+    .pkg-price {
+        font-size: 30px;
+        font-weight: 700;
+        font-family: monospace;
+        color: var(--text-primary);
+        letter-spacing: -1px;
+        line-height: 1;
+        margin-bottom: 4px;
+    }
+
+    .pkg-currency { font-size: 14px; font-weight: 500; color: var(--text-muted); }
+
+    .pkg-credits {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--brand-from);
+        margin: 12px 0;
+    }
+
+    .pkg-bonus {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        background: var(--warning-bg);
+        color: #92400e;
+        border: 1px solid #fde68a;
+        padding: 4px 10px;
+        border-radius: var(--radius-full);
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 16px;
+    }
+
+    /* Transaction badge types */
+    .tx-achat      { background: var(--success-bg); color: #065f46; }
+    .tx-utilisation{ background: var(--info-bg);    color: #1e40af; }
+    .tx-bonus      { background: var(--warning-bg); color: #92400e; }
+
+    .tx-pos { color: var(--success); font-weight: 700; }
+    .tx-neg { color: var(--danger);  font-weight: 700; }
+
+    @media (max-width: 768px) {
+        .credits-hero { flex-direction: column; gap: 20px; }
+        .hero-balance { font-size: 48px; }
+        .packages-grid { grid-template-columns: 1fr; }
+    }
